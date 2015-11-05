@@ -26,3 +26,8 @@
 *.exe
 *.out
 *.app
+
+vc2013/Debug/
+vc2013/Release/
+*sdf
+*.suo
